@@ -1,3 +1,3 @@
 # Python-GUI-Calculator
 Basic calculator
-Jerson Tibus
+By: Jerson Tibus
